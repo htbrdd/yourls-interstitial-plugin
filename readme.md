@@ -4,6 +4,8 @@ Copyright (C) 2014 - 2017 Joel Gratcyk
 
 http://joel.gratcyk.com/yourls
 
+## Sponsored by
+
 <a target='_blank' rel='nofollow' href='https://app.codesponsor.io/link/sD9HKaESavV7DiqMhizpxxs2/joelgratcyk/yourls-interstitial-plugin'>  <img alt='Sponsor' width='888' height='68' src='https://app.codesponsor.io/embed/sD9HKaESavV7DiqMhizpxxs2/joelgratcyk/yourls-interstitial-plugin.svg' /></a>
 
 ## Install
